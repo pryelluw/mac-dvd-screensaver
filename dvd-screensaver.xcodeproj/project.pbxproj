@@ -21,6 +21,7 @@
 		E530C9332448096A002C56A2 /* dvd.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = dvd.html; sourceTree = "<group>"; };
 		E530C93524480E13002C56A2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E530C93624480FC3002C56A2 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		E530C93824481302002C56A2 /* release.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = release.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 				E530C92924480572002C56A2 /* dvd_screensaverView.h */,
 				E530C92B24480572002C56A2 /* dvd_screensaverView.m */,
 				E530C9332448096A002C56A2 /* dvd.html */,
+				E530C93824481302002C56A2 /* release.sh */,
 				E530C93624480FC3002C56A2 /* .gitignore */,
 				E530C93524480E13002C56A2 /* README.md */,
 				E530C92D24480572002C56A2 /* Info.plist */,
