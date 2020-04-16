@@ -19,9 +19,11 @@ Note that the license covers my code only and not the code written by nikital.
 # Install
 
 - Download the latest release.
+- unzip the file `dvd-screensaver.saver.zip`
 - Click on the file that ends with `.saver`
 - You will be prompted to open it. You may also need to go to `settings > security & privacy` and click `open anyway`.
 - Set it up as your screensaver and preview it.
+- Congratulate yourself for a job well done.
 
 
 
