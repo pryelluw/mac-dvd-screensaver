@@ -10,6 +10,7 @@
 		E530C92A24480572002C56A2 /* dvd_screensaverView.h in Headers */ = {isa = PBXBuildFile; fileRef = E530C92924480572002C56A2 /* dvd_screensaverView.h */; };
 		E530C92C24480572002C56A2 /* dvd_screensaverView.m in Sources */ = {isa = PBXBuildFile; fileRef = E530C92B24480572002C56A2 /* dvd_screensaverView.m */; };
 		E530C9342448096A002C56A2 /* dvd.html in Resources */ = {isa = PBXBuildFile; fileRef = E530C9332448096A002C56A2 /* dvd.html */; };
+		E530C93724480FC3002C56A2 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E530C93624480FC3002C56A2 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,6 +19,8 @@
 		E530C92B24480572002C56A2 /* dvd_screensaverView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dvd_screensaverView.m; sourceTree = "<group>"; };
 		E530C92D24480572002C56A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E530C9332448096A002C56A2 /* dvd.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = dvd.html; sourceTree = "<group>"; };
+		E530C93524480E13002C56A2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E530C93624480FC3002C56A2 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +56,8 @@
 				E530C92924480572002C56A2 /* dvd_screensaverView.h */,
 				E530C92B24480572002C56A2 /* dvd_screensaverView.m */,
 				E530C9332448096A002C56A2 /* dvd.html */,
+				E530C93624480FC3002C56A2 /* .gitignore */,
+				E530C93524480E13002C56A2 /* README.md */,
 				E530C92D24480572002C56A2 /* Info.plist */,
 			);
 			path = "dvd-screensaver";
@@ -127,6 +132,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E530C93724480FC3002C56A2 /* .gitignore in Resources */,
 				E530C9342448096A002C56A2 /* dvd.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
