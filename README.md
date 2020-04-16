@@ -11,10 +11,7 @@ I was reading a Hacker News thread when the person who built the thing listed ab
 
 Made 100% sense to build a mac screensaver based on their work.
 
-No intention to steal work or glory is meant.
-
 License: MIT
-Note that the license covers my code only and not the code written by nikital.
 
 # Install
 
