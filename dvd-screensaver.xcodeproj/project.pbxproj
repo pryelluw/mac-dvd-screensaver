@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		E530C92A24480572002C56A2 /* dvd_screensaverView.h in Headers */ = {isa = PBXBuildFile; fileRef = E530C92924480572002C56A2 /* dvd_screensaverView.h */; };
 		E530C92C24480572002C56A2 /* dvd_screensaverView.m in Sources */ = {isa = PBXBuildFile; fileRef = E530C92B24480572002C56A2 /* dvd_screensaverView.m */; };
+		E530C9342448096A002C56A2 /* dvd.html in Resources */ = {isa = PBXBuildFile; fileRef = E530C9332448096A002C56A2 /* dvd.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +17,7 @@
 		E530C92924480572002C56A2 /* dvd_screensaverView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dvd_screensaverView.h; sourceTree = "<group>"; };
 		E530C92B24480572002C56A2 /* dvd_screensaverView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dvd_screensaverView.m; sourceTree = "<group>"; };
 		E530C92D24480572002C56A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E530C9332448096A002C56A2 /* dvd.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = dvd.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,7 @@
 			children = (
 				E530C92924480572002C56A2 /* dvd_screensaverView.h */,
 				E530C92B24480572002C56A2 /* dvd_screensaverView.m */,
+				E530C9332448096A002C56A2 /* dvd.html */,
 				E530C92D24480572002C56A2 /* Info.plist */,
 			);
 			path = "dvd-screensaver";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E530C9342448096A002C56A2 /* dvd.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
